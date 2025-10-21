@@ -1,4 +1,4 @@
-<img width="891" height="479" alt="image" src="https://github.com/user-attachments/assets/11e2a848-aa43-4e75-85ef-8c0997f8b15a" /># README
+# README
 
 ## Это гитхаб про готовку еды в 4-210
 ## Библиотека рецептов:
